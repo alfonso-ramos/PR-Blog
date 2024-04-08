@@ -1,0 +1,29 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>✌️ Hola, soy Poncho Ramos!</h1>
+			<p>
+				Soy Poncho Ramos, estudiante de ingeniería en tecnologías de la información, apasionado por la programación y el desarrollo web. Me gusta el café y las carreras de Fórmula 1.
+			</p>
+			<p>
+				En este espacio estaré compartiendo lo que vaya aprendiendo, ya sea en desarrollo web o desarrollo de software en general, cómputo en la nube, nuevas tecnologías, temas de informática en general o aquellas ideas que quiera compartir en general.
+			</p>
+			<p>
+				Quiero crear un lugar en el cual compartir mis aprendizajes lo haga más fácil para otras personas y para aquellos que quieran aprender ciertas cosas y no quieran tener tantas complicaciones con tecnicismos.
+			</p>
+		</main>
+		<Footer />
+	</body>
+</html>
