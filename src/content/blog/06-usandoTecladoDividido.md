@@ -1,8 +1,8 @@
 ---
 title: 'Mi experiencia usando un teclado dividio'
 description: 'Te cuento mi experiencia usando un teclado particular, el cual ha tenido varios beneficios.'
-pubDate: 'Aug 17 2024'
-heroImage: '/imagenListas.jpeg'
+pubDate: 'Nov 07 2024'
+heroImage: '/thumbnail_corne.jpeg'
 ---
 
 ## Usando un teclado mecánico dividido
@@ -11,16 +11,19 @@ Mientras navegaba por internet en busca de temas de informática, me encontré c
 
 Un día, mientras veía sus videos, algo llamó mi atención: su teclado. Era un teclado pequeño, sin etiquetas en las teclas para indicar cuál era cada una, y lo más curioso, estaba dividido en dos partes.
 
-![](../../images/corne_Nico.jpeg)
+![](/public/corne_Nico.jpeg)
 
 Se trataba del teclado Corne, un proyecto de Foostan. Tiempo después, tuve la oportunidad de adquirir uno, aunque adaptarme a este teclado presentó una gran curva de aprendizaje.
 
 
 ## Disposición ortolineal
-La disposición de las teclas es diferente. Mientras que los teclados convencionales tienen un ligero desplazamiento entre filas, en este teclado las teclas están alineadas de forma recta, lo que permite seguir la línea natural de los dedos al escribir. Adaptarse a esta disposición desde un teclado convencional puede ser un desafío, pero, una vez acostumbrado, resulta muy cómodo (personalmente, me parece increíblemente cómodo).
+La disposición de las teclas es diferente. Mientras que los teclados convencionales tienen un ligero desplazamiento entre filas, en este teclado las teclas están alineadas de forma recta, lo que permite seguir la línea natural de los dedos al escribir. 
+![](/public/Corneimg_1.jpeg)
+Adaptarse a esta disposición desde un teclado convencional puede ser un desafío, pero, una vez acostumbrado, resulta muy cómodo (personalmente, me parece increíblemente cómodo).
 
 ## Empezar con mecanografía y corregir malas prácticas
 Con un teclado dividido y sin las letras visibles en cada tecla, lo vi como una oportunidad para mejorar mi mecanografía. Spoiler: fue toda una odisea.
+
 
 Comencé con sitios web como Monkeytype o TypingClub, que me enseñaron a colocar correctamente las manos en la línea central y a asignar cada grupo de teclas a un dedo específico. Empecé muy despacio, escribiendo apenas 7 palabras por minuto, y practicando diariamente hasta desarrollar suficiente memoria muscular para escribir sin ver el teclado, o al menos mirándolo solo ocasionalmente.
 
@@ -37,6 +40,9 @@ Para aliviar esto, el teclado utiliza un sistema de capas. En mi capa principal,
 
 ## La mayor ventaja: Ergonomía
 Paso mucho tiempo frente a una computadora, y mantener una postura antinatural con un teclado convencional afecta a mis muñecas, incluso aunque haga ejercicio. Este teclado me permite ajustar libremente la separación de las manos y el ángulo de las muñecas, lo cual reduce la tensión en ellas. Aunque el beneficio no es inmediato, a largo plazo ha mejorado mucho mi comodidad y ha disminuido la tensión en mis muñecas.
+
+![](/public/Corneimg_2.jpeg)
+
 
 ## Curva de aprendizaje
 El mayor reto de este teclado (y posiblemente de cualquiera similar) es el tiempo de adaptación. Incluso si tienes las letras visibles en las teclas, el cambio a una disposición diferente y el uso del sistema de capas para escribir o programar requiere un periodo de ajuste.
