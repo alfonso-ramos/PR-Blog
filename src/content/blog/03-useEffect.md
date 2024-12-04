@@ -1,7 +1,7 @@
 ---
 title: '¡Entiende useEffect en React YA!: Guía Sencilla con Ejemplos'
 description: 'Entiende el hook useEffect de React de manera sencilla.'
-pubDate: 'Oct 04 2024'
+pubDate: 'Aug 21 2024'
 heroImage: '/03.webp'
 ---
 Cuando trabajas con **React**, uno de los hooks más importantes que debes dominar es **useEffect**. Este hook te permite manejar efectos secundarios en tus componentes funcionales, algo esencial para crear aplicaciones dinámicas e interactivas. En este post, te explicaré de manera sencilla qué es useEffect, cómo funciona, y te mostraré algunos ejemplos prácticos.
