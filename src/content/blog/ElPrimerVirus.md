@@ -2,7 +2,7 @@
 title: 'El primer virus informático'
 description: '¿Alguna vez te has preguntado cómo empezó la historia de los virus informáticos? Hoy vamos a retroceder en el tiempo para conocer al primer virus de la historia. '
 pubDate: 'Oct 02 2024'
-heroImage: '/public/PrimerVirus/virusThump.webp'
+heroImage: '/PrimerVirus/virusThump.webp'
 ---
 > “La Historia del Primer Virus Informático”
 

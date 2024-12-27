@@ -2,7 +2,7 @@
 title: '¿Por qué Astro está dominando el panorama de los frameworks web?'
 description: 'Astro no es solo una moda, es una solución innovadora para el desarrollo web estático. Su enfoque en el rendimiento, la flexibilidad y la simplicidad lo posicionan como una herramienta indispensable para desarrolladores modernos'
 pubDate: 'Dec 26 2024'
-heroImage: '/public/AstroRey/AstroThm.png'
+heroImage: '/AstroRey/AstroThm.png'
 ---
 En los últimos meses, Astro ha emergido como una de las opciones más populares para el desarrollo web, superando a gigantes como React y Vue en ciertos aspectos. Pero, ¿qué lo hace tan especial y por qué deberías considerarlo para tus proyectos? Exploraremos las razones de su popularidad, sus ventajas, cómo se compara con otros frameworks y por qué es una excelente opción para aprender y utilizar.
 

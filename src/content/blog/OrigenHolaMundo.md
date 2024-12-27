@@ -2,7 +2,7 @@
 title: 'Origen de ‘Hola mundo!’'
 description: 'Al aprender a programar, tu primer programa seguramente es mostrar el mensaje “Hola Mundo!”, ¿Sabías que una simple frase como ‘Hola Mundo’ tiene un lugar especial en la historia de la programación?'
 pubDate: 'Oct 01 2024'
-heroImage: '/public/HelloWorldPost/helloworld.webp'
+heroImage: '/HelloWorldPost/helloworld.webp'
 ---
 
 # El origen de ‘Hola mundo’
