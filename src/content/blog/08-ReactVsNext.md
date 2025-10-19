@@ -2,7 +2,7 @@
 title: 'React vs Next.js: ¿Solo piezas de LEGO o la caja completa? — Guía nerd, práctica y sin rodeos'
 description: 'React o Next.js, entiende en que se diferencian y cual es mejor en que casos para desarrollar'
 pubDate: 'Oct 18 2025'
-heroImage: '/public/ReactVsNext/Thumbnail.png'
+heroImage: '/ReactVsNext/Thumbnail.png'
 ---
 
 ¿Quieres construir cosas web y no sabes si empezar con React o lanzarte directo a Next.js? Bien: aquí te doy la guía completa, con analogías, decisiones claras y cero palabrería inútil. Al final sabrás **qué** es cada uno, **por qué** son diferentes, **cuándo** usar cada uno y **qué aprender primero**.
